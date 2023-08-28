@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.sql": "sql",
+        "*.vue": "vue",
+        "*.es": "javascript",
+        "*.tcc": "c",
+        "socket": "c",
+        "fstream": "c"
+    }
+}
