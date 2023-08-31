@@ -5,6 +5,10 @@
         "*.es": "javascript",
         "*.tcc": "c",
         "socket": "c",
-        "fstream": "c"
+        "fstream": "c",
+        "stddef.h": "c",
+        "stdint.h": "c",
+        "typeinfo": "c",
+        "net.h": "c"
     }
 }
