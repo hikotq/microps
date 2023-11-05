@@ -9,6 +9,9 @@
         "stddef.h": "c",
         "stdint.h": "c",
         "typeinfo": "c",
-        "net.h": "c"
+        "net.h": "c",
+        "ether.h": "c",
+        "string.h": "c",
+        "time.h": "c"
     }
 }
